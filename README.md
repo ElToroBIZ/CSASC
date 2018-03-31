@@ -88,7 +88,6 @@ Contains:
 Original Github source: https://github.com/rasta-mouse \
 Twitter: https://twitter.com/_RastaMouse \
 Contains:
-* DDEAutoCS
 * elevate
 * persistence
 * loader.cna
@@ -155,3 +154,10 @@ Contains:
 * ProcessColor.cna
 * ProcessMonitor.cna
 * RedTeamRepo.cna
+
+### p292
+Original Github source: https://github.com/p292 \
+Twitter: ? \
+Contains:
+* DDEAutoCS
+* Phant0m_cobaltstrike
